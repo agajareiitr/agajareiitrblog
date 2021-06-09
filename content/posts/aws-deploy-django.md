@@ -27,9 +27,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/agajareiitr/agajareiitr.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: False # to append file path to Edit link
+    # URL: "https://github.com/agajareiitr/agajareiitr.github.io/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: True # to append file path to Edit link
 ---
 
 ## This Guide will Help you to Deploy your Django Project on AWS (amazon web services)

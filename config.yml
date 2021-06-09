@@ -71,8 +71,8 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there , I am Akash Gajare \U0001F44B"
-        Content: I am a **Python Developer** and also a Data Analyst. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping.for the past Year I have been learning Django, rest Framework, JavaScript.  
-                for Data Analysis learned Pandas, Numpy, Mathplotlib, R Programming and statistics and have
+        Content: I am a **Python Developer** and also a Data Analyst. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping, for the past Year I have been learning Django, rest Framework, JavaScript. 
+                For Data Analysis learned Pandas, Numpy, Mathplotlib, R Programming and statistics and have
                 Created Projects based on the skills.My further Learning Curve Includes React-JS and React-Native for building Cross-platform apps,
                 keping aside Academics I also Love to Watch Anime in my free time and has a keen interest in
                 Japan and Japanese Culture
@@ -102,7 +102,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/agajareiitr/agajareiitr.github.io/content"
+        URL: "https://github.com/agajareiitr/agajareiitrblog/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
