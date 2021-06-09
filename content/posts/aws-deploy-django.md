@@ -1,7 +1,6 @@
 ---
 title: "Aws Deploy Django"
 date: 2021-06-09T10:11:55+05:30
-draft: False
 tags: ["Python","Django","aws","ssl"]
 author: "Akash Gajare"
 # author: ["Me", "You"] # multiple authors
@@ -21,15 +20,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/aws-migration-1200x675.jpg" # image path/url
+    alt: "aws-migration-1200x675.jpg" # alt text
+    caption: "Source : Google Images" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    # URL: "https://github.com/agajareiitr/agajareiitr.github.io/content"
-    # Text: "Suggest Changes" # edit text
-    # appendFilePath: True # to append file path to Edit link
+    hidden: false # only hide on current single page
 ---
 
 ## This Guide will Help you to Deploy your Django Project on AWS (amazon web services)

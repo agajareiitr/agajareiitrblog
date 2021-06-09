@@ -71,11 +71,15 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there , I am Akash Gajare \U0001F44B"
-        Content: I am a **Python Developer** and also a Data Analyst. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping, for the past Year I have been learning Django, rest Framework, JavaScript. 
-                For Data Analysis learned Pandas, Numpy, Mathplotlib, R Programming and statistics and have
-                Created Projects based on the skills.My further Learning Curve Includes React-JS and React-Native for building Cross-platform apps,
-                keping aside Academics I also Love to Watch Anime in my free time and has a keen interest in
-                Japan and Japanese Culture
+        Content: >
+                I am a **Python Developer** and also a Data Analyst. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping.
+                
+                - I have been learning **Django, rest Framework, JavaScript**.
+                
+                - My further Learning Curve Includes **React-JS and React-Native** for building Cross-platform apps,
+                
+                - keping aside Academics I also Love to Watch **Anime** in my free time and has a keen interest in
+                **Japan** and **Japanese Culture**.
 
     socialIcons:
         - name: linkedin	
@@ -86,7 +90,8 @@ params:
           url: "mailto:agajare@ch.iitr.ac.in"
         - name: instagram
           url: "https://www.instagram.com/agajareiitr/"
-
+        - name: anilist
+          url: "https://anilist.co/user/deva0811/"
 
     analytics:
         google:
@@ -102,8 +107,8 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/agajareiitr/agajareiitrblog/content"
-        Text: "Suggest Changes" # edit text
+        URL: "https://github.com/agajareiitr/agajareiitrblog/tree/main/content/"
+        Text: "Suggest Changes \U0001F448" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # for search
@@ -116,20 +121,20 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-menu:
-    main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 20
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 30
-        - identifier: aboutme
-          name: About Me
-          url: /aboutme/
-          weight: 10
+# menu:
+#     main:
+#         - identifier: categories
+#           name: categories
+#           url: /categories/
+#           weight: 20
+#         - identifier: tags
+#           name: tags
+#           url: /tags/
+#           weight: 30
+#         - identifier: aboutme
+#           name: About Me
+#           url: /aboutme/
+#           weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
