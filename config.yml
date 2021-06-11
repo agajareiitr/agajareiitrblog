@@ -121,12 +121,12 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
-# menu:
-#     main:
-#         - identifier: categories
-#           name: categories
-#           url: /categories/
-#           weight: 20
+menu:
+    main:
+        - identifier: Resume
+          name: Resume
+          url: /Resume/
+          weight: 20
 #         - identifier: tags
 #           name: tags
 #           url: /tags/
