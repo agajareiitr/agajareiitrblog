@@ -128,11 +128,11 @@ menu:
         - identifier: Resume
           name: Resume
           url: /Resume/
+          weight: 10
+        - identifier: aboutme
+          name: About Me
+          url: /aboutme/
           weight: 20
-#         - identifier: tags
-#           name: tags
-#           url: /tags/
-#           weight: 30
 #         - identifier: aboutme
 #           name: About Me
 #           url: /aboutme/
@@ -146,3 +146,40 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
