@@ -64,7 +64,7 @@ cover:
 ### Now that Our Instance is Launched we have do update it and make it ready for Django
 ---
 ## 2. Updating Ubuntu, Installing Python,Virtualenv, nginx, supervisor 
-1. Run The FOllowing Commands : 
+1. Run The Following Commands : 
     1. ```sudo apt-get update```
     2. ```sudo apt-get upgrade```
 

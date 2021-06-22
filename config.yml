@@ -22,7 +22,7 @@ params:
     author: "Akash Gajare"
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
-    DateFormat: "January 2, 2006"
+    DateFormat: "2 January, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
@@ -30,7 +30,7 @@ params:
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -72,13 +72,15 @@ params:
     homeInfoParams:
         Title: "Hi there , I am Akash Gajare \U0001F44B"
         Content: >
-                I am a **Python Developer** and also a Data Analyst. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping.
+                ⭐ I am a **Python Developer** and also a **Data Analyst**. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping.
                 
-                - I have been learning **Django, rest Framework, JavaScript**.
+                - ⭐ I have been learning **Django, ,Flask, Rest Framework, JavaScript etc**.
                 
-                - My further Learning Curve Includes **React-JS and React-Native** for building Cross-platform apps,
+                - ⭐ My further Learning Curve Includes **React-JS and React-Native** for building Cross-platform apps.
+
+                - ⭐ Topics like **Blockchain** and **cloud computing** etc exites me.
                 
-                - kepping aside Academics I also Love to Watch **Anime** in my free time and has a keen interest in
+                - ⭐ kepping aside Academics I also Love to Watch **Anime** in my free time and has a keen interest in
                 **Japan** and **Japanese Culture**.
 
     socialIcons:
