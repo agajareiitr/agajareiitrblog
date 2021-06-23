@@ -70,11 +70,11 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there , I am Akash Gajare \U0001F44B"
+        Title: "Hi there , I am Akash Gajare"
         Content: >
                 ⭐ I am a **Python Developer** and also a **Data Analyst**. I have 2 Years of Experience in Python making Automation Scripts and Web Scrapping.
                 
-                - ⭐ I have been learning **Django, ,Flask, Rest Framework, JavaScript etc**.
+                - ⭐ I have been learning **Django, Flask, Rest Framework, JavaScript etc**.
                 
                 - ⭐ My further Learning Curve Includes **React-JS and React-Native** for building Cross-platform apps.
 

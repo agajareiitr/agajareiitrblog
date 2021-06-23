@@ -5,7 +5,7 @@ ShowReadingTime: false
 ---
 ![view count](https://komarev.com/ghpvc/?username=agajareiitr&label=view+count&style=plastic)
 
-# Konichiwa, Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Konichiwa, Welcome <img style="display:inline-block;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <div align="center">
 <img alt="goku" align="center" src="/goku.gif">
