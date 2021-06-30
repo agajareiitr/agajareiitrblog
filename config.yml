@@ -137,6 +137,10 @@ menu:
           name: Projects
           url: /projects/
           weight: 30
+        - identifier: search
+          name: Search
+          url: /Search/
+          weight: 40
 
 markup:
   defaultMarkdownHandler: goldmark
@@ -176,3 +180,9 @@ markup:
     ordered: false
     startLevel: 2
 
+# for search functionality
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
