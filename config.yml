@@ -132,11 +132,11 @@ menu:
         - identifier: aboutme
           name: About Me
           url: /aboutme/
-          weight: 20
+          weight: 30
         - identifier: Projects
           name: Projects
           url: /projects/
-          weight: 30
+          weight: 20
         - identifier: search
           name: Search
           url: /Search/
