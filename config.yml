@@ -133,19 +133,11 @@ menu:
           name: About Me
           url: /aboutme/
           weight: 20
-#         - identifier: aboutme
-#           name: About Me
-#           url: /aboutme/
-#           weight: 10
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+        - identifier: Projects
+          name: Projects
+          url: /projects/
+          weight: 30
+
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -183,3 +175,4 @@ markup:
     endLevel: 3
     ordered: false
     startLevel: 2
+
