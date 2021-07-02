@@ -20,7 +20,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/aws-migration-1200x675.jpg" # image path/url
+    image: "/images/aws-migration-1200x675.jpg" # image path/url
     alt: "aws-migration-1200x675.jpg" # alt text
     caption: "Source : Google Images" # display caption under cover
     relative: false # when using page bundles set this to true

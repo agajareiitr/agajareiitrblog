@@ -18,7 +18,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "covid19-india-whatsapp-application.png" # image path/url
+    image: "images/covid19-india-whatsapp-application.png" # image path/url
     alt: "covid19-india-whatsapp-application.jpg" # alt text
     caption: "Source : Google Images" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -43,7 +43,7 @@ cover:
 
 **STEP 1 :** Send **`join second-previous`** to WhatsApp Number - **`+14155238886`**
 
-<img src="/Project-Images/join%20second-previous.PNG" height=450>
+<img src="/images/Project-Images/join%20second-previous.PNG" height=450>
 
 **STEP 2 :** A simple **`Hey`** Message will Guide you further and you will get a **Welcome message** like below screenshot:
 
