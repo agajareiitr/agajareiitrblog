@@ -9,7 +9,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "{{ replace .Name "-" " " | title }}"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://agajareiitr.github.io/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -19,7 +19,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/Default.jpg" # image path/url
+    image: "/images/Default.jpg" # image path/url
     alt: "Default.jpg" # alt text
     caption: "Source : Google Images" # display caption under cover
     relative: false # when using page bundles set this to true
